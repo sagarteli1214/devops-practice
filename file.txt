@@ -1,3 +1,1 @@
-Hello DevOps
-Second change
-This is feature work
+Conflict from branch
