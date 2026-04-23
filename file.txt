@@ -4,3 +4,4 @@ final test
 final test
 trigger again
 webhook final test
+auto trigger test
